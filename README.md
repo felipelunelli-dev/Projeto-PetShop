@@ -3,8 +3,9 @@
 <br
 <h2>Esse é um dos projetos que aprendi no <a href="https://devclub.com.br">DevClub</h2> 
 <br>
-Projeto Responsível Baseado em:
-  <br>
+<br>
+<br>
+<h2>Projeto de um código limpo com HTML semântico baseado em:</h2>
 <br>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
